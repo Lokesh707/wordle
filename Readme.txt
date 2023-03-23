@@ -16,17 +16,11 @@ Time spent: 8 hours spent in total
 The following **required** functionality is completed:
 
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [x] **User has 3 chances to guess a random 4 letter word**
+- [x] **After 3 guesses, user should no longer be able to submit another guess**
+- [x] **After each guess, user sees the "correctness" of the guess**
+- [x] **After all guesses are taken, user can see the target word displayed**
 
-
-
-
-
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 
 ## Video Walkthrough
@@ -37,12 +31,5 @@ Here's a walkthrough of implemented user stories:
 
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
-
-
-
-## Notes
-
-
-Describe any challenges encountered while building the app.
 
 
